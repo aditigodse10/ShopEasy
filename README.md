@@ -99,7 +99,7 @@ To run this app:
 
 ## 🧑‍💻 Developer
 
-Made with ❤️ by **Aditi Godse
+Made with ❤️ by **Aditi Godse**
 
 ---
 
