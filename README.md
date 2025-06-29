@@ -75,9 +75,11 @@ To run this app:
 
 ---
 
-## 📱 Screenshots
+## 📱 Screenshots and demo Video
 
-*(Insert your Compose UI previews or emulator screenshots here)*
+> ![1000314918](https://github.com/user-attachments/assets/e8ccb034-43da-463f-b852-0bc576956b47)
+> ![1000314920](https://github.com/user-attachments/assets/eaeef8f3-9f3c-41a7-a48a-0e77dbf2fdde)
+> https://drive.google.com/file/d/174TMh18st1b2ceAnycAKu2n77CERPqlt/view?usp=share_link
 
 ---
 
@@ -93,21 +95,16 @@ To run this app:
 - 👗 Clothes Store UI
 - 📱 Electronics Marketplace
 - 🛍️ Cart & Order Management
-- 🔔 Push Notifications
-- 🌐 Multi-language Support
-
 ---
 
 ## 🧑‍💻 Developer
 
-Made with ❤️ by **Shreyash Bhor**
+Made with ❤️ by **Aditi Godse
 
 ---
 
 ## 📝 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-```
 
----
 
