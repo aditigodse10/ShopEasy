@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "754190247395",
+    "firebase_url": "https://shopeasy-53850-default-rtdb.firebaseio.com",
+    "project_id": "shopeasy-53850",
+    "storage_bucket": "shopeasy-53850.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754190247395:android:389018d13024a22fb5acd6",
+        "android_client_info": {
+          "package_name": "com.example.shopeasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfN4A9IvigdLIWcCuk2hojvUzo8FgiaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

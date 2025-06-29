@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/orange_and_gray_tag_cart_virtual_shop_logo_2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/orange_and_gray_tag_cart_virtual_shop_logo_2"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShopEasy"
+        tools:targetApi="31">
+        <activity
+            android:name=".Activities.Map.MapActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyASWQ_4Ds9jsvKcReC6rpa9soCTb7-oi1k" />
+
+        <activity
+            android:name=".Activities.Results.ResultsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.Dashboard.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ShopEasy" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
